@@ -1,0 +1,21 @@
+{
+    "conf_dev":{
+        "driver":"mysql",
+        "dbhost":"127.0.0.1",
+        "dbname":"blog",
+        "dbuser":"root",
+        "dbpass":"linuxlinux",
+        "web":"http://localhost:8080",
+        "root":"/"
+    },
+    "conf_pro":{
+        "driver":"mysql",
+        "dbhost":"mase.cesnuria.com",
+        "dbname":"MaSe_blog",
+        "dbuser":"MaSe_sergio",
+        "dbpass":"linuxlinux",
+        "web":"/m7/blog",
+        "root":"/m7/blog/"
+
+    }
+}
